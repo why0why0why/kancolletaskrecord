@@ -1,0 +1,2458 @@
+﻿{
+    "userid": "",
+    "version": "0.2",
+    "date": "2020-11-18",
+    "record": {
+        "once": [
+            {
+                "tasknumber": "B31",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "4-2",
+                        "time": 0,
+                        "requiretime": 2,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B48",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "1-5",
+                        "time": 0,
+                        "requiretime": 4,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B63",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "1-3",
+                        "time": 0,
+                        "requiretime": 3,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B64",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "1-4",
+                        "time": 0,
+                        "requiretime": 5,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B65",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "2-3",
+                        "time": 0,
+                        "requiretime": 6,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B67",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "2-2",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "2-3",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B72",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "1-6",
+                        "time": 0,
+                        "requiretime": 3,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B74",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "1-5",
+                        "time": 0,
+                        "requiretime": 2,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B75",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "1-4",
+                        "time": 0,
+                        "requiretime": 2,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B77",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "2-2",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "2-3",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B90",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "5-5",
+                        "time": 0,
+                        "requiretime": 2,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B93",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "1-4",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "2-2",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "2-3",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B94",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "3-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "4-4",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "6-2",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B95",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "5-1",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "5-3",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B96",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "6-2",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "6-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B97",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "1-2",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "1-3",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "1-4",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "1-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B98",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "1-3",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "1-4",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "1-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "1-6",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B99",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "4-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "5-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B100",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "2-2",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "2-3",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "2-4",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "2-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B101",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "4-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "6-2",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B102",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "2-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "3-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B103",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "2-3",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "5-1",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B105",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "5-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "6-2",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B107",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "1-3",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "1-4",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "1-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B108",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "1-2",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "2-2",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B109",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "3-2",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "5-4",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B110",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "3-5",
+                        "time": 0,
+                        "requiretime": 2,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B111",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "1-4",
+                        "time": 0,
+                        "requiretime": 2,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "1-6",
+                        "time": 0,
+                        "requiretime": 2,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B112",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "5-1",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "5-3",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "5-4",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B113",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "1-4",
+                        "time": 0,
+                        "requiretime": 3,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "1-6",
+                        "time": 0,
+                        "requiretime": 3,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B114",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "1-6",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "2-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "3-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "4-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B115",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "1-6",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "2-3",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "3-2",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "4-2",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B116",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "3-2",
+                        "time": 0,
+                        "requiretime": 2,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B117",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "3-2",
+                        "time": 0,
+                        "requiretime": 2,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "4-2",
+                        "time": 0,
+                        "requiretime": 2,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "5-3",
+                        "time": 0,
+                        "requiretime": 2,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B118",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "3-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "4-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "6-4",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B119",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "6-5",
+                        "time": 0,
+                        "requiretime": 3,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B120",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "1-2",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "1-4",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "1-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "1-6",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B121",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "2-3",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "4-1",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "5-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "6-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B122",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "1-4",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "2-3",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "3-3",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "4-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B123",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "1-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "3-2",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "7-1",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "5-1",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B124",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "2-1",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "2-2",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "2-3",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "2-4",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B125",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "1-2",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "1-3",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "1-4",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "2-1",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "2-2",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B126",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "5-3",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "5-4",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "5-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B127",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "3-1",
+                        "time": 0,
+                        "requiretime": 2,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "3-3",
+                        "time": 0,
+                        "requiretime": 2,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "3-4",
+                        "time": 0,
+                        "requiretime": 2,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "3-5",
+                        "time": 0,
+                        "requiretime": 2,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B128",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "5-3",
+                        "time": 0,
+                        "requiretime": 2,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "5-4",
+                        "time": 0,
+                        "requiretime": 2,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B129",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "2-2",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "3-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "4-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "5-1",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B130",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "2-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "5-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "6-4",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B131",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "1-4",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "1-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "2-3",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "7-2",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B132",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "1-6",
+                        "time": 0,
+                        "requiretime": 2,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "4-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "5-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "6-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B133",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "5-1",
+                        "time": 0,
+                        "requiretime": 2,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "5-3",
+                        "time": 0,
+                        "requiretime": 2,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "5-4",
+                        "time": 0,
+                        "requiretime": 2,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "5-5",
+                        "time": 0,
+                        "requiretime": 2,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B134",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "2-3",
+                        "time": 0,
+                        "requiretime": 2,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "3-3",
+                        "time": 0,
+                        "requiretime": 2,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "4-1",
+                        "time": 0,
+                        "requiretime": 2,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B135",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "1-2",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "1-3",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "2-1",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "2-2",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B136",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "2-3",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "2-4",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "5-1",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "5-3",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B137",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "4-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "5-2",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "6-5",
+                        "time": 0,
+                        "requiretime": 2,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B138",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "2-1",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "2-2",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "2-3",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B139",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "4-5",
+                        "time": 0,
+                        "requiretime": 2,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "6-4",
+                        "time": 0,
+                        "requiretime": 2,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B140",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "2-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "3-3",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "5-3",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "6-3",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B141",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "1-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "1-6",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "2-2",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "3-2",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "7-1",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B142",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "1-3",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "1-4",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "1-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "2-2",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "2-3",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B143",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "3-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "5-2",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "7-2",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "6-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B144",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "5-1",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "5-2",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "5-3",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "5-4",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "5-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B145",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "2-4",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "4-2",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "4-4",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "4-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B146",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "2-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "6-3",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "6-4",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "6-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B147",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "2-2",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "2-3",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "2-4",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B148",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "1-4",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "2-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "3-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B149",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "1-5",
+                        "time": 0,
+                        "requiretime": 2,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "7-1",
+                        "time": 0,
+                        "requiretime": 2,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "6-2",
+                        "time": 0,
+                        "requiretime": 2,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "6-5",
+                        "time": 0,
+                        "requiretime": 2,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B150",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "3-4",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "4-3",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "5-2",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "7-2",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B151",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "4-5",
+                        "time": 0,
+                        "requiretime": 2,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "5-5",
+                        "time": 0,
+                        "requiretime": 2,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "6-4",
+                        "time": 0,
+                        "requiretime": 2,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B152",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "2-4",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "2-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "4-3",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B153",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "3-4",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "4-4",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "4-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "5-2",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B154",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "7-2",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "5-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "6-2",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "6-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B155",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "7-3",
+                        "time": 0,
+                        "requiretime": 4,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B156",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "1-2",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "1-3",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "2-1",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "2-3",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B157",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "1-4",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "2-2",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "3-2",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "4-1",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "7-3",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B158",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "1-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "2-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "7-1",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "5-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "6-3",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B159",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "1-3",
+                        "time": 0,
+                        "requiretime": 2,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "1-4",
+                        "time": 0,
+                        "requiretime": 2,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "2-1",
+                        "time": 0,
+                        "requiretime": 2,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "2-2",
+                        "time": 0,
+                        "requiretime": 2,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B160",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "2-3",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "2-4",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "2-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "3-3",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "7-3",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "B161",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "4-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "5-3",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "5-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "6-4",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "6-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            }
+        ],
+        "weekly": [
+            {
+                "tasknumber": "Bw9",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "5-2",
+                        "time": 0,
+                        "requiretime": 2,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "Bw10",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "1-5",
+                        "time": 0,
+                        "requiretime": 3,
+                        "iscomplete": 0
+                    }
+                ]
+            }
+        ],
+        "monthly": [
+            {
+                "tasknumber": "Bm2",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "6-1",
+                        "time": 0,
+                        "requiretime": 3,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "Bm5",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "1-5",
+                        "time": 0,
+                        "requiretime": 10,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "Bm8",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "1-2",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "1-3",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "1-4",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "2-1",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            }
+        ],
+        "quarterly": [
+            {
+                "tasknumber": "Bq1",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "2-4",
+                        "time": 0,
+                        "requiretime": 2,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "Bq2",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "2-4",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "6-1",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "6-3",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "6-4",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "Bq3",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "1-6",
+                        "time": 0,
+                        "requiretime": 2,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "Bq4",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "6-3",
+                        "time": 0,
+                        "requiretime": 2,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "Bq5",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "3-1",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "3-2",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "3-3",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "Bq6",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "5-4",
+                        "time": 0,
+                        "requiretime": 2,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "Bq7",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "5-1",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "5-3",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "5-4",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "Bq8",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "1-5",
+                        "time": 0,
+                        "requiretime": 3,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "7-1",
+                        "time": 0,
+                        "requiretime": 3,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "7-2P1",
+                        "time": 0,
+                        "requiretime": 3,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "7-2P2",
+                        "time": 0,
+                        "requiretime": 3,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "Bq9",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "1-3",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "1-4",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "2-1",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "2-2",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "2-3",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "Bq10",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "7-2P2",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "5-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "6-2",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "6-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "Bq11",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "1-4",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "2-1",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "2-2",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "2-3",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "Bq12",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "4-1",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "4-2",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "4-3",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "4-4",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "4-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "Bq13",
+                "iscomplete": 0,
+                "stage": [
+                    {
+                        "stage": "5-1",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "5-4",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "6-4",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "6-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            }
+        ],
+        "yearly": [
+            {
+                "tasknumber": "By1",
+                "iscomplete": 0,
+                "month": 2,
+                "stage": [
+                    {
+                        "stage": "2-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "3-4",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "4-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "5-3",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "By2",
+                "iscomplete": 0,
+                "month": 2,
+                "stage": [
+                    {
+                        "stage": "1-1",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "1-2",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "1-3",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "1-5",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "1-6",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "By3",
+                "iscomplete": 0,
+                "month": 3,
+                "stage": [
+                    {
+                        "stage": "1-3",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "1-6",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "2-1",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "2-2",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "2-3",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "By4",
+                "iscomplete": 0,
+                "month": 3,
+                "stage": [
+                    {
+                        "stage": "4-1",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "4-2",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "4-3",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "4-4",
+                        "time": 0,
+                        "requiretime": 1,
+                        "iscomplete": 0
+                    }
+                ]
+            },
+            {
+                "tasknumber": "By5",
+                "iscomplete": 0,
+                "month": 9,
+                "stage": [
+                    {
+                        "stage": "7-2",
+                        "time": 0,
+                        "requiretime": 2,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "7-3",
+                        "time": 0,
+                        "requiretime": 2,
+                        "iscomplete": 0
+                    },
+                    {
+                        "stage": "4-2",
+                        "time": 0,
+                        "requiretime": 2,
+                        "iscomplete": 0
+                    }
+                ]
+            }
+        ]
+    }
+}
