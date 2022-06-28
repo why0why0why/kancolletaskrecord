@@ -22,3 +22,12 @@ async def _():
     now = datetime.now(pytz.timezone('Asia/Shanghai'))
     for group in REMIND_GROUP:
         await bot.send_group_msg(group_id=group, message='EO还有一小时刷新')
+
+
+@nonebot.scheduler.scheduled_job('cron', hour=10, day="11,12,13")
+async def _():
+    """expedition remind"""
+    bot = nonebot.get_bot()
+    now = datetime.now(pytz.timezone('Asia/Shanghai'))
+    for group in REMIND_GROUP:
+        await bot.send_group_msg(group_id=group, message='月常远征将于15日刷新')
