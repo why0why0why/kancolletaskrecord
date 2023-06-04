@@ -7,7 +7,7 @@ import os
 import shutil
 from datetime import datetime
 import nonebot
-import pytz
+import zoneinfo
 
 stage_list = ['1-1', '1-2', '1-3', '1-4', '1-5', '1-6', '2-1', '2-2', '2-3', '2-4', '2-5', '3-1', '3-2', '3-3', '3-4', '3-5',
               '7-1', '7-2', '7-2P1', '7-2P2', '7-3', '7-3P1', '7-3P2', '4-1', '4-2', '4-3', '4-4', '4-5', '5-1', '5-2', '5-3', '5-4', '5-5', '6-1', '6-2', '6-3', '6-4', '6-5']
@@ -335,7 +335,7 @@ async def checkrecord(arg: str, userid, session: CommandSession):
 async def _():
     """clear task record when 4:00am GMT+8"""
     bot = nonebot.get_bot()
-    now = datetime.now(pytz.timezone('Asia/Shanghai'))
+    now = datetime.now(zoneinfo.ZoneInfo('Asia/Shanghai'))
     # await init("daily")
     if now.weekday == 0:
         await init("weekly")
